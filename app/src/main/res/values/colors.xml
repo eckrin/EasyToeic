@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="mainColor">#0052e7</color>
+    <color name="subColor">#5683d6</color>
+    <color name="thirdColor">#9d9d9e</color>
+    <color name="background">#ffffff</color>
+    <color name="icon_color">#000000</color>
+    <color name="correctAnswerColor">#389109</color>
+    <color name="wrongAnswerColor">#BD0404</color>
+
+
+    // basic
+    <color name="gray">#9d9d9e</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+</resources>

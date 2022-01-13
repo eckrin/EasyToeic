@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "347477092674",
+    "project_id": "wordapp-f7e81",
+    "storage_bucket": "wordapp-f7e81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347477092674:android:232e68d44c7b58ae7c40db",
+        "android_client_info": {
+          "package_name": "com.example.wordapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347477092674-2q27n60852m74na3sc6flslcqu827973.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe-04dkgBMo9bQKRWDgFgmin3FxlbCafY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347477092674-2q27n60852m74na3sc6flslcqu827973.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
